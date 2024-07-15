@@ -43,3 +43,5 @@ else(a<c || a==b)
 let d = 20;
 let ans = 10 < d ? "positive":"negative";
 console.log(ans)
+
+
