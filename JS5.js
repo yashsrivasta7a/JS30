@@ -5,3 +5,11 @@ function EoO(n) {
 }
 EoO(2);
 
+
+
+// Task 2
+function square(n){
+    console.log(`Square of n : ${n*n}`);
+}
+
+square(2)
