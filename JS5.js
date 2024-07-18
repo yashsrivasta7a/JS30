@@ -83,6 +83,6 @@ function productOfTwo (a, b = 10) {
   function Number(n, operation1, operation2){
     const num = operation1(n);
     return operation2(num); 
-  }
+  } 
   console.log(`(34 * 2) + 5 = ${Number(34, double, increment)}`);
   
